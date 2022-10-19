@@ -6,6 +6,7 @@
     <title>Coba git remote lagi</title>
     </head>
 <body>
-    <p>Hello World</p>
+    <h1>Hello World</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid modi, alias optio officiis, soluta consectetur, similique cupiditate recusandae exercitationem facilis vitae labore ducimus eveniet nisi et doloribus eius quasi blanditiis!</p>
 </body>
 </html>
